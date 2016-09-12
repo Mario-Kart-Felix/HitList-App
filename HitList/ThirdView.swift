@@ -2,9 +2,11 @@
 //  ThirdView.swift
 //  HitList
 //
-//  Created by Franklin on 2016-09-09.
-//  Copyright © 2016 Franklin. All rights reserved.
+
+//  Created by Kim Nguyen on 2016-09-09.
+//  Copyright © 2016 Kim Nguyen. All rights reserved.
 //
+
 
 import Foundation
 
