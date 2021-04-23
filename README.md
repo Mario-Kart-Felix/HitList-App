@@ -1,2 +1,0 @@
-# HitList-App
-HitList App
